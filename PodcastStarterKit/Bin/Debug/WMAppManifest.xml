@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2009/deployment" AppPlatformVersion="7.1">
+  <App xmlns="" ProductID="{5b4d045a-90d8-4365-975b-51622fafc734}" Title="this developer's life" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="PodcastStarterKit author" Description="Sample description" Publisher="PodcastStarterKit">
+    <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
+    <Capabilities>
+      <Capability Name="ID_CAP_IDENTITY_DEVICE" />
+      <Capability Name="ID_CAP_NETWORKING" />
+	  <Capability Name="ID_CAP_MEDIALIB" />
+    </Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
+      <ExtendedTask Name="BackgroundTask">
+        <BackgroundServiceAgent Specifier="AudioPlayerAgent" Name="PodcastStarterKitPlaybackAudioAgent" Source="PodcastStarterKitPlaybackAudioAgent" Type="PodcastStarterKitPlaybackAudioAgent.AudioPlayer" />
+        <BackgroundServiceAgent Specifier="ScheduledTaskAgent" Name="PodcastStarterKitTileTaskAgent" Source="PodcastStarterKitTileTaskAgent" Type="PodcastStarterKitTileTaskAgent.ScheduledAgent" />
+      </ExtendedTask>
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="PodcastStarterKitToken" TaskName="_default">
+        <TemplateType5>
+          <BackgroundImageURI IsRelative="true" IsResource="false">Background.png</BackgroundImageURI>
+          <Count>0</Count>
+          <Title>this.life()</Title>
+        </TemplateType5>
+      </PrimaryToken>
+    </Tokens>
+  </App>
+</Deployment>
+<!-- WPSDK Version 7.1.7720.0 -->

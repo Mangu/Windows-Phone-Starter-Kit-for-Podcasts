@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodcastStarterKit", "PodcastStarterKit\PodcastStarterKit.csproj", "{CA2D8816-C9D0-427A-99CB-92F9C3B2A909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodcastStarterKitPlaybackAudioAgent", "PodcastStarterKitPlaybackAudioAgent\PodcastStarterKitPlaybackAudioAgent.csproj", "{18BB7DB3-E902-4AC9-90E2-49FC48D3A67B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodcastStarterKitTileTaskAgent", "PodcastStarterKitTileTaskAgent\PodcastStarterKitTileTaskAgent.csproj", "{10A53A02-0581-4CB8-98B1-295333A5A5C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodcastStarterKit.Common", "PodcastStarterKit.Common\PodcastStarterKit.Common.csproj", "{450BDB0F-89EB-407C-87E2-EB2602181DE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA2D8816-C9D0-427A-99CB-92F9C3B2A909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA2D8816-C9D0-427A-99CB-92F9C3B2A909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA2D8816-C9D0-427A-99CB-92F9C3B2A909}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CA2D8816-C9D0-427A-99CB-92F9C3B2A909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2D8816-C9D0-427A-99CB-92F9C3B2A909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA2D8816-C9D0-427A-99CB-92F9C3B2A909}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{18BB7DB3-E902-4AC9-90E2-49FC48D3A67B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18BB7DB3-E902-4AC9-90E2-49FC48D3A67B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18BB7DB3-E902-4AC9-90E2-49FC48D3A67B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18BB7DB3-E902-4AC9-90E2-49FC48D3A67B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10A53A02-0581-4CB8-98B1-295333A5A5C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A53A02-0581-4CB8-98B1-295333A5A5C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A53A02-0581-4CB8-98B1-295333A5A5C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A53A02-0581-4CB8-98B1-295333A5A5C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{450BDB0F-89EB-407C-87E2-EB2602181DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450BDB0F-89EB-407C-87E2-EB2602181DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450BDB0F-89EB-407C-87E2-EB2602181DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450BDB0F-89EB-407C-87E2-EB2602181DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\dani\Documents\Visual Studio 2010\Projects\PodcastStarterKit\PodcastStarterKitPlaybackAudioAgent\Bin\Debug\PodcastStarterKitPlaybackAudioAgent.dll
+C:\Users\dani\Documents\Visual Studio 2010\Projects\PodcastStarterKit\PodcastStarterKitPlaybackAudioAgent\Bin\Debug\PodcastStarterKitPlaybackAudioAgent.pdb
+C:\Users\dani\Documents\Visual Studio 2010\Projects\PodcastStarterKit\PodcastStarterKitPlaybackAudioAgent\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dani\Documents\Visual Studio 2010\Projects\PodcastStarterKit\PodcastStarterKitPlaybackAudioAgent\obj\Debug\PodcastStarterKitPlaybackAudioAgent.dll
+C:\Users\dani\Documents\Visual Studio 2010\Projects\PodcastStarterKit\PodcastStarterKitPlaybackAudioAgent\obj\Debug\PodcastStarterKitPlaybackAudioAgent.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKitPlaybackAudioAgent\Bin\Debug\PodcastStarterKitPlaybackAudioAgent.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKitPlaybackAudioAgent\Bin\Debug\PodcastStarterKitPlaybackAudioAgent.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKitPlaybackAudioAgent\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKitPlaybackAudioAgent\obj\Debug\PodcastStarterKitPlaybackAudioAgent.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKitPlaybackAudioAgent\obj\Debug\PodcastStarterKitPlaybackAudioAgent.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKitPlaybackAudioAgent\Bin\Debug\PodcastStarterKitPlaybackAudioAgent.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKitPlaybackAudioAgent\Bin\Debug\PodcastStarterKitPlaybackAudioAgent.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKitPlaybackAudioAgent\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKitPlaybackAudioAgent\obj\Debug\PodcastStarterKitPlaybackAudioAgent.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKitPlaybackAudioAgent\obj\Debug\PodcastStarterKitPlaybackAudioAgent.pdb

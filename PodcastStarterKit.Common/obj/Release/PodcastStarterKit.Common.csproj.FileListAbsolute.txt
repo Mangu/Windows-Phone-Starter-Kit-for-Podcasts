@@ -1,0 +1,20 @@
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit.Common\Bin\Release\PodcastStarterKit.Common.dll
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit.Common\Bin\Release\PodcastStarterKit.Common.pdb
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit.Common\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit.Common\obj\Release\PodcastStarterKit.Common.dll
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit.Common\obj\Release\PodcastStarterKit.Common.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit.Common\Bin\Release\PodcastStarterKit.Common.dll
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit.Common\Bin\Release\PodcastStarterKit.Common.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit.Common\obj\Release\ResolveAssemblyReference.cache
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit.Common\obj\Release\PodcastStarterKit.Common.dll
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit.Common\obj\Release\PodcastStarterKit.Common.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit.Common\Bin\Release\PodcastStarterKit.Common.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit.Common\Bin\Release\PodcastStarterKit.Common.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit.Common\obj\Release\ResolveAssemblyReference.cache
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit.Common\obj\Release\PodcastStarterKit.Common.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit.Common\obj\Release\PodcastStarterKit.Common.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit.Common\Bin\Release\PodcastStarterKit.Common.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit.Common\Bin\Release\PodcastStarterKit.Common.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit.Common\obj\Release\ResolveAssemblyReference.cache
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit.Common\obj\Release\PodcastStarterKit.Common.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit.Common\obj\Release\PodcastStarterKit.Common.pdb

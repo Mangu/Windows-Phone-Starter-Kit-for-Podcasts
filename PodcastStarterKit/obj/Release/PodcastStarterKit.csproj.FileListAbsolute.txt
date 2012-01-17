@@ -1,0 +1,108 @@
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\Bin\Release\ApplicationIcon.png
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\Bin\Release\Background.png
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\Bin\Release\PanoBg.png
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\Bin\Release\PodcastStarterKit.dll
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\Bin\Release\PodcastStarterKit.pdb
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\Bin\Release\AppManifest.xaml
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\Bin\Release\PodcastStarterKit.xap
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\Bin\Release\C1.Phone.dll
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\Bin\Release\PodcastStarterKit.Common.dll
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\Bin\Release\PodcastStarterKitPlaybackAudioAgent.dll
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\Bin\Release\PodcastStarterKitTileTaskAgent.dll
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\Bin\Release\PodcastStarterKit.Common.pdb
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\Bin\Release\PodcastStarterKitPlaybackAudioAgent.pdb
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\Bin\Release\PodcastStarterKitTileTaskAgent.pdb
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\Bin\Release\C1.Phone.xml
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\Bin\Release\ja\C1.Phone.resources.dll
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\obj\Release\App.g.i.cs
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\obj\Release\MainPage.g.i.cs
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\obj\Release\Play.g.i.cs
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\obj\Release\PodcastStarterKit.g.resources
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\obj\Release\PodcastStarterKit.dll
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\obj\Release\PodcastStarterKit.pdb
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKit\obj\Release\XapCacheFile.xml
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\Bin\Release\ApplicationIcon.png
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\Bin\Release\Background.png
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\Bin\Release\PanoBg.png
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\Bin\Release\PodcastStarterKit.dll
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\Bin\Release\PodcastStarterKit.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\Bin\Release\AppManifest.xaml
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\Bin\Release\PodcastStarterKit.xap
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\Bin\Release\PodcastStarterKit.Common.dll
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\Bin\Release\PodcastStarterKitPlaybackAudioAgent.dll
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\Bin\Release\PodcastStarterKitTileTaskAgent.dll
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\Bin\Release\PodcastStarterKit.Common.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\Bin\Release\PodcastStarterKitPlaybackAudioAgent.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\Bin\Release\PodcastStarterKitTileTaskAgent.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\obj\Release\ResolveAssemblyReference.cache
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\obj\Release\App.g.i.cs
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\obj\Release\MainPage.g.i.cs
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\obj\Release\Play.g.i.cs
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\obj\Release\PodcastStarterKit.g.resources
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\obj\Release\PodcastStarterKit.dll
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\obj\Release\PodcastStarterKit.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKit\obj\Release\XapCacheFile.xml
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\Bin\Release\ApplicationIcon.png
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\Bin\Release\Background.png
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\Bin\Release\PanoBg.png
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\Bin\Release\PodcastStarterKit.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\Bin\Release\PodcastStarterKit.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\Bin\Release\AppManifest.xaml
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\Bin\Release\PodcastStarterKit.xap
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\Bin\Release\PodcastStarterKit.Common.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\Bin\Release\PodcastStarterKitPlaybackAudioAgent.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\Bin\Release\PodcastStarterKitTileTaskAgent.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\Bin\Release\PodcastStarterKit.Common.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\Bin\Release\PodcastStarterKitPlaybackAudioAgent.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\Bin\Release\PodcastStarterKitTileTaskAgent.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\obj\Release\ResolveAssemblyReference.cache
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\obj\Release\App.g.i.cs
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\obj\Release\MainPage.g.i.cs
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\obj\Release\Play.g.i.cs
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\obj\Release\PodcastStarterKit.g.resources
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\obj\Release\PodcastStarterKit.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\obj\Release\PodcastStarterKit.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\obj\Release\XapCacheFile.xml
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit\obj\Release\PanoramaPage1.g.i.cs
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\Bin\Release\ApplicationIcon.png
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\Bin\Release\Background.png
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\Bin\Release\PanoramaBackground.png
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\Bin\Release\PodcastStarterKit.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\Bin\Release\PodcastStarterKit.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\Bin\Release\AppManifest.xaml
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\Bin\Release\PodcastStarterKit.xap
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\Bin\Release\PodcastStarterKit.Common.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\Bin\Release\PodcastStarterKitPlaybackAudioAgent.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\Bin\Release\PodcastStarterKitTileTaskAgent.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\Bin\Release\PodcastStarterKit.Common.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\Bin\Release\PodcastStarterKitPlaybackAudioAgent.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\Bin\Release\PodcastStarterKitTileTaskAgent.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\obj\Release\ResolveAssemblyReference.cache
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\obj\Release\App.g.i.cs
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\obj\Release\MainPage.g.i.cs
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\obj\Release\Play.g.i.cs
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\obj\Release\PodcastStarterKit.g.resources
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\obj\Release\PodcastStarterKit.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\obj\Release\PodcastStarterKit.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\obj\Release\XapCacheFile.xml

@@ -1,0 +1,155 @@
+﻿<phone:PhoneApplicationPage 
+	xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"   
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:PodcastStarterKit_ViewModels="clr-namespace:PodcastStarterKit.ViewModels" 
+    xmlns:PodcastStarterKit_Converters="clr-namespace:PodcastStarterKit.Converters" 
+    x:Class="PodcastStarterKit.MainPage" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768" 
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True" Loaded="PhoneApplicationPage_Loaded">
+
+    <phone:PhoneApplicationPage.Resources>
+    	<PodcastStarterKit_Converters:CaseConverter x:Key="CaseConverter1"/>
+    	<PodcastStarterKit_Converters:StringVisibilityConverter x:Key="StringVisibilityConverter"/>
+        <PodcastStarterKit_ViewModels:MainViewModel x:Key="MainViewModelDataSource" />
+        <PodcastStarterKit_Converters:CaseConverter x:Key="CaseConverter" />
+        <PodcastStarterKit_Converters:VisibilityConverter x:Key="VisibilityConverter" />
+	</phone:PhoneApplicationPage.Resources>
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent" DataContext="{Binding Source={StaticResource MainViewModelDataSource}}">
+
+        <!--Panorama control-->
+        <controls:Panorama Name="MainPano" Title="{Binding ApplicationName, ConverterParameter=l, Converter={StaticResource CaseConverter}, Mode=OneWay}" Foreground="White" >
+            <controls:Panorama.Background>
+                <ImageBrush ImageSource="/PanoramaBackground.png"/>
+            </controls:Panorama.Background>
+
+            <!--Panorama item recent-->
+            <controls:PanoramaItem Header="recent"  >
+                <!--Double line list with text wrapping-->
+                <Grid>
+                    <TextBlock Text="{Binding PodcastInfoDataStatus}" Visibility="{Binding PodcastInfoDataStatus, Converter={StaticResource StringVisibilityConverter}}">
+                    	<TextBlock.Foreground>
+                    		<SolidColorBrush Color="{StaticResource PhoneAccentColor}"/>
+                    	</TextBlock.Foreground>loading...</TextBlock>
+                        <ListBox Visibility="{Binding PodcastInfoDataStatus, Converter={StaticResource StringVisibilityConverter}, ConverterParameter=i}" x:Name="RecentList" Margin="0,0,-12,0" ItemsSource="{Binding Recent}" SelectionChanged="Recent_SelectionChanged" >
+                            <ListBox.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <toolkit:WrapPanel ItemWidth="200" ItemHeight="200"/>
+                                </ItemsPanelTemplate>
+                            </ListBox.ItemsPanel>
+                            <ListBox.ItemTemplate>                   
+                                <DataTemplate>                           
+                                    <Grid  Margin="0,5,0,5">                            	
+                                        <Image  Margin="12,0,0,0" Name="ShowImage" Stretch="UniformToFill" Height="180" Width="200" Source="{Binding ImageUrl}" HorizontalAlignment="Center"></Image>
+				                        <StackPanel  VerticalAlignment="Bottom"  Background="#AF000000">
+					                        <TextBlock VerticalAlignment="Bottom" Text="{Binding Title}"  Style="{StaticResource PhoneTextTitle3Style}" Foreground="White"/>
+				                        </StackPanel>	
+			                        </Grid>                              
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+
+                    </ListBox>
+                </Grid>
+            </controls:PanoramaItem>
+
+
+            <controls:PanoramaItem Header="history">            	
+	                <ListBox x:Name="HistoryListBox" Margin="0,0,-12,0" ItemsSource="{Binding History}" SelectionChanged="Recent_SelectionChanged">
+	                    <ListBox.ItemTemplate>
+	                        <DataTemplate>
+	                            <StackPanel Margin="0,0,0,17">
+	                                <TextBlock Text="{Binding Title}" TextWrapping="NoWrap" Margin="12,0,0,0" Style="{StaticResource PhoneTextTitle2Style}" Foreground="White"/>
+	                                <TextBlock Text="{Binding Date}" TextWrapping="NoWrap" Margin="12,-6,0,0" Style="{StaticResource PhoneTextAccentStyle}"/>
+	                            </StackPanel>
+	                        </DataTemplate>
+	                    </ListBox.ItemTemplate>
+	                </ListBox>				
+            </controls:PanoramaItem>
+            
+            <controls:PanoramaItem Header="twitter">
+            	 <Grid>
+                    <TextBlock Text="{Binding TwitterDataStatus}" Visibility="{Binding TwitterDataStatus}">
+                    	<TextBlock.Foreground>
+                    		<SolidColorBrush Color="{StaticResource PhoneAccentColor}"/>
+                    	</TextBlock.Foreground>loading...</TextBlock>
+	                <ListBox Visibility="{Binding TwitterDataStatus, Converter={StaticResource StringVisibilityConverter}, ConverterParameter=i}" x:Name="TwitterListBox" Margin="0" ItemsSource="{Binding Twitter}">
+	                    <ListBox.ItemTemplate>
+	                        <DataTemplate>
+	                            <StackPanel Margin="0,0,0,17"  Background="#AF000000"  Width="445">
+	                                <TextBlock TextWrapping="Wrap" Text="{Binding Text}" Margin="12,0,0,5" Style="{StaticResource PhoneTextTitle3Style}" Foreground="White"/>
+	                                <TextBlock Text="{Binding Date}" TextWrapping="NoWrap" Margin="12,-6,0,0" Style="{StaticResource PhoneTextAccentStyle}"/>
+	                            </StackPanel>
+	                        </DataTemplate>
+	                    </ListBox.ItemTemplate>
+	                </ListBox>
+				</Grid>
+            </controls:PanoramaItem>
+
+            <controls:PanoramaItem Header="about"  DataContext="{Binding PodcastInformation}"> 
+            	<Grid>
+                    <TextBlock Text="{Binding PodcastInfoDataStatus}" Visibility="{Binding PodcastInfoDataStatus}">
+                    	<TextBlock.Foreground>
+                    		<SolidColorBrush Color="{StaticResource PhoneAccentColor}"/>
+                    	</TextBlock.Foreground>loading...</TextBlock>
+					<StackPanel Visibility="{Binding PodcastInfoDataStatus, Converter={StaticResource StringVisibilityConverter}, ConverterParameter=i}">					
+						<StackPanel Grid.Row="0" Orientation="Horizontal" Margin="0,0,0,0" >
+	                        <toolkit:HubTile Grid.Row="1" Grid.Column="0" Tag="rate_Tap"
+	                                         Margin="12,12,0,0"
+	                                         Source="/Images/HubTile.jpg"
+	                                         Title="Rate"
+	                                         Notification="Rate&#x0d;&#x0a;The App"
+	                                         DisplayNotification="True"
+	                                         GroupTag="Icons"/>
+
+	                        <toolkit:HubTile Grid.Row="1" Grid.Column="0" Tap="info_Tap" 
+	                                         Margin="12,12,0,0"
+	                                         Source="/Images/HubTile.jpg"
+	                                         Title="Feedback"
+	                                         Notification="Sends us&#x0d;&#x0a;Feedback"
+	                                         DisplayNotification="True"
+	                                         GroupTag="Icons"/>
+	                    </StackPanel>
+                        <ScrollViewer> 
+                            <StackPanel ScrollViewer.VerticalScrollBarVisibility="Auto">
+						        <StackPanel Grid.Row="1" Visibility="{Binding Description, Converter={StaticResource StringVisibilityConverter}}" Margin="0,0,0,10">						
+							        <TextBlock Style="{StaticResource PhoneTextAccentStyle}">Description</TextBlock>
+							        <TextBlock Style="{StaticResource PhoneTextSubtleStyle}" TextWrapping="Wrap" Text="{Binding Description}" Foreground="White"></TextBlock>						
+						        </StackPanel>					
+						        <StackPanel Grid.Row="2" Visibility="{Binding Copyright, Converter={StaticResource StringVisibilityConverter}}" Margin="0,0,0,10" >						
+							        <TextBlock Style="{StaticResource PhoneTextAccentStyle}" TextWrapping="Wrap">Copyright</TextBlock>
+							        <TextBlock Style="{StaticResource PhoneTextSubtleStyle}" TextWrapping="Wrap" Text="{Binding Copyright }" Foreground="White"></TextBlock>						
+						        </StackPanel>				
+						        <StackPanel Grid.Row="3" Visibility="{Binding ManagingDirector, Converter={StaticResource StringVisibilityConverter}}" Margin="0,0,0,10">						
+							        <TextBlock Style="{StaticResource PhoneTextAccentStyle}" Visibility="{Binding ManagingDirector, Converter={StaticResource StringVisibilityConverter}}">Producer</TextBlock>
+							        <TextBlock Style="{StaticResource PhoneTextSubtleStyle}" Text="{Binding ManagingDirector}" Visibility="{Binding ManagingDirector, Converter={StaticResource StringVisibilityConverter}}" Foreground="White"></TextBlock>						
+						        </StackPanel>
+						        <StackPanel Grid.Row="4" Visibility="{Binding Language, Converter={StaticResource StringVisibilityConverter}}" Margin="0,0,0,10" >						
+							        <TextBlock Style="{StaticResource PhoneTextAccentStyle}" Visibility="{Binding Language, Converter={StaticResource StringVisibilityConverter}}">Language</TextBlock>
+							        <TextBlock Style="{StaticResource PhoneTextSubtleStyle}" Text="{Binding Language}" Visibility="{Binding Language, Converter={StaticResource StringVisibilityConverter}}" Foreground="White"></TextBlock>						
+						        </StackPanel>
+						        <StackPanel Grid.Row="5" Grid.RowSpan="4" Visibility="{Binding Rating, Converter={StaticResource StringVisibilityConverter}}" Margin="0,0,0,10">						
+							        <TextBlock Style="{StaticResource PhoneTextAccentStyle}" Visibility="{Binding Rating, Converter={StaticResource StringVisibilityConverter}}">Rating</TextBlock>
+							        <TextBlock Style="{StaticResource PhoneTextSubtleStyle}" Text="{Binding Rating}" Visibility="{Binding Rating, Converter={StaticResource StringVisibilityConverter}}" Foreground="White"></TextBlock>						
+						        </StackPanel>
+                    </StackPanel>
+                    </ScrollViewer>
+                    </StackPanel> 
+				</Grid>              
+            </controls:PanoramaItem>
+        </controls:Panorama>
+
+
+
+    </Grid>
+
+    <!--Panorama-based applications should not show an ApplicationBar-->
+
+</phone:PhoneApplicationPage>

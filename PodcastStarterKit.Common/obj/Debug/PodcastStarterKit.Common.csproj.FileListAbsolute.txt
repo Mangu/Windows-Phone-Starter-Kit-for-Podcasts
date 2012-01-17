@@ -1,0 +1,15 @@
+C:\Users\dani\Documents\Visual Studio 2010\Projects\PodcastStarterKit\PodcastStarterKit.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dani\Documents\Visual Studio 2010\Projects\PodcastStarterKit\PodcastStarterKit.Common\Bin\Debug\PodcastStarterKit.Common.dll
+C:\Users\dani\Documents\Visual Studio 2010\Projects\PodcastStarterKit\PodcastStarterKit.Common\Bin\Debug\PodcastStarterKit.Common.pdb
+C:\Users\dani\Documents\Visual Studio 2010\Projects\PodcastStarterKit\PodcastStarterKit.Common\obj\Debug\PodcastStarterKit.Common.dll
+C:\Users\dani\Documents\Visual Studio 2010\Projects\PodcastStarterKit\PodcastStarterKit.Common\obj\Debug\PodcastStarterKit.Common.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit.Common\Bin\Debug\PodcastStarterKit.Common.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit.Common\Bin\Debug\PodcastStarterKit.Common.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit.Common\obj\Debug\PodcastStarterKit.Common.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKit.Common\obj\Debug\PodcastStarterKit.Common.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit.Common\Bin\Debug\PodcastStarterKit.Common.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit.Common\Bin\Debug\PodcastStarterKit.Common.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit.Common\obj\Debug\PodcastStarterKit.Common.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit.Common\obj\Debug\PodcastStarterKit.Common.pdb

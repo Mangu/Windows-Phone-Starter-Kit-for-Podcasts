@@ -1,0 +1,20 @@
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKitPlaybackAudioAgent\Bin\Release\PodcastStarterKitPlaybackAudioAgent.dll
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKitPlaybackAudioAgent\Bin\Release\PodcastStarterKitPlaybackAudioAgent.pdb
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKitPlaybackAudioAgent\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKitPlaybackAudioAgent\obj\Release\PodcastStarterKitPlaybackAudioAgent.dll
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKitPlaybackAudioAgent\obj\Release\PodcastStarterKitPlaybackAudioAgent.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKitPlaybackAudioAgent\Bin\Release\PodcastStarterKitPlaybackAudioAgent.dll
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKitPlaybackAudioAgent\Bin\Release\PodcastStarterKitPlaybackAudioAgent.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKitPlaybackAudioAgent\obj\Release\ResolveAssemblyReference.cache
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKitPlaybackAudioAgent\obj\Release\PodcastStarterKitPlaybackAudioAgent.dll
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKitPlaybackAudioAgent\obj\Release\PodcastStarterKitPlaybackAudioAgent.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKitPlaybackAudioAgent\Bin\Release\PodcastStarterKitPlaybackAudioAgent.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKitPlaybackAudioAgent\Bin\Release\PodcastStarterKitPlaybackAudioAgent.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKitPlaybackAudioAgent\obj\Release\ResolveAssemblyReference.cache
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKitPlaybackAudioAgent\obj\Release\PodcastStarterKitPlaybackAudioAgent.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKitPlaybackAudioAgent\obj\Release\PodcastStarterKitPlaybackAudioAgent.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKitPlaybackAudioAgent\Bin\Release\PodcastStarterKitPlaybackAudioAgent.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKitPlaybackAudioAgent\Bin\Release\PodcastStarterKitPlaybackAudioAgent.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKitPlaybackAudioAgent\obj\Release\ResolveAssemblyReference.cache
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKitPlaybackAudioAgent\obj\Release\PodcastStarterKitPlaybackAudioAgent.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKitPlaybackAudioAgent\obj\Release\PodcastStarterKitPlaybackAudioAgent.pdb

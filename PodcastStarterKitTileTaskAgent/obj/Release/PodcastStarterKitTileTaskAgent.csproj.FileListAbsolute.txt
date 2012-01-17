@@ -1,0 +1,28 @@
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKitTileTaskAgent\Bin\Release\PodcastStarterKitTileTaskAgent.dll
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKitTileTaskAgent\Bin\Release\PodcastStarterKitTileTaskAgent.pdb
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKitTileTaskAgent\Bin\Release\PodcastStarterKit.Common.dll
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKitTileTaskAgent\Bin\Release\PodcastStarterKit.Common.pdb
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKitTileTaskAgent\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKitTileTaskAgent\obj\Release\PodcastStarterKitTileTaskAgent.dll
+C:\Users\dani\documents\visual studio 2010\Projects\PodcastStarterKit\PodcastStarterKitTileTaskAgent\obj\Release\PodcastStarterKitTileTaskAgent.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKitTileTaskAgent\Bin\Release\PodcastStarterKitTileTaskAgent.dll
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKitTileTaskAgent\Bin\Release\PodcastStarterKitTileTaskAgent.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKitTileTaskAgent\Bin\Release\PodcastStarterKit.Common.dll
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKitTileTaskAgent\Bin\Release\PodcastStarterKit.Common.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKitTileTaskAgent\obj\Release\ResolveAssemblyReference.cache
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKitTileTaskAgent\obj\Release\PodcastStarterKitTileTaskAgent.dll
+C:\Users\danilod\Desktop\PodcastStarterKit\PodcastStarterKitTileTaskAgent\obj\Release\PodcastStarterKitTileTaskAgent.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKitTileTaskAgent\Bin\Release\PodcastStarterKitTileTaskAgent.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKitTileTaskAgent\Bin\Release\PodcastStarterKitTileTaskAgent.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKitTileTaskAgent\Bin\Release\PodcastStarterKit.Common.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKitTileTaskAgent\Bin\Release\PodcastStarterKit.Common.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKitTileTaskAgent\obj\Release\ResolveAssemblyReference.cache
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKitTileTaskAgent\obj\Release\PodcastStarterKitTileTaskAgent.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Copy\PodcastStarterKitTileTaskAgent\obj\Release\PodcastStarterKitTileTaskAgent.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKitTileTaskAgent\Bin\Release\PodcastStarterKitTileTaskAgent.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKitTileTaskAgent\Bin\Release\PodcastStarterKitTileTaskAgent.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKitTileTaskAgent\Bin\Release\PodcastStarterKit.Common.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKitTileTaskAgent\Bin\Release\PodcastStarterKit.Common.pdb
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKitTileTaskAgent\obj\Release\ResolveAssemblyReference.cache
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKitTileTaskAgent\obj\Release\PodcastStarterKitTileTaskAgent.dll
+C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKitTileTaskAgent\obj\Release\PodcastStarterKitTileTaskAgent.pdb
