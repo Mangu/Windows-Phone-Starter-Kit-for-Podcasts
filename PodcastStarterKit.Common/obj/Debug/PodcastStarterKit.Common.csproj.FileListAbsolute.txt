@@ -13,3 +13,8 @@ C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit.Common\Bin\
 C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit.Common\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit.Common\obj\Debug\PodcastStarterKit.Common.dll
 C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit.Common\obj\Debug\PodcastStarterKit.Common.pdb
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit.Common\Bin\Debug\PodcastStarterKit.Common.dll
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit.Common\Bin\Debug\PodcastStarterKit.Common.pdb
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit.Common\obj\Debug\PodcastStarterKit.Common.csprojResolveAssemblyReference.cache
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit.Common\obj\Debug\PodcastStarterKit.Common.dll
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit.Common\obj\Debug\PodcastStarterKit.Common.pdb
