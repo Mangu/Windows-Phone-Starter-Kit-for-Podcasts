@@ -81,3 +81,28 @@ C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\obj\Debug\P
 C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\obj\Debug\PodcastStarterKit.dll
 C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\obj\Debug\PodcastStarterKit.pdb
 C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKit\obj\Debug\XapCacheFile.xml
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\Bin\Debug\ApplicationIcon.png
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\Bin\Debug\Background.png
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\Bin\Debug\PanoramaBackground.png
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\Bin\Debug\PodcastStarterKit.dll
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\Bin\Debug\PodcastStarterKit.pdb
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\Bin\Debug\AppManifest.xaml
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\Bin\Debug\PodcastStarterKit.Common.dll
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\Bin\Debug\PodcastStarterKitPlaybackAudioAgent.dll
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\Bin\Debug\PodcastStarterKitTileTaskAgent.dll
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\Bin\Debug\PodcastStarterKit.Common.pdb
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\Bin\Debug\PodcastStarterKitPlaybackAudioAgent.pdb
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\Bin\Debug\PodcastStarterKitTileTaskAgent.pdb
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\obj\Debug\PodcastStarterKit.csprojResolveAssemblyReference.cache
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\obj\Debug\App.g.cs
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\obj\Debug\MainPage.g.cs
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\obj\Debug\Play.g.cs
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\obj\Debug\PodcastStarterKit.g.resources
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\obj\Debug\PodcastStarterKit.dll
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\obj\Debug\PodcastStarterKit.pdb
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\obj\Debug\XapCacheFile.xml
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\Bin\Debug\PodcastStarterKit_Debug_AnyCPU.xap
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\Bin\Debug\PodcastStarterKit.dll.config
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKit\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
