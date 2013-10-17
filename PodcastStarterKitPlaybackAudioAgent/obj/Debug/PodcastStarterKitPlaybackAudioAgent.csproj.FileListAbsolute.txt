@@ -13,3 +13,7 @@ C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKitPlaybackAudi
 C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKitPlaybackAudioAgent\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKitPlaybackAudioAgent\obj\Debug\PodcastStarterKitPlaybackAudioAgent.dll
 C:\Users\danilod\Desktop\PodcastStarterKit - Final\PodcastStarterKitPlaybackAudioAgent\obj\Debug\PodcastStarterKitPlaybackAudioAgent.pdb
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKitPlaybackAudioAgent\Bin\Debug\PodcastStarterKitPlaybackAudioAgent.dll
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKitPlaybackAudioAgent\Bin\Debug\PodcastStarterKitPlaybackAudioAgent.pdb
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKitPlaybackAudioAgent\obj\Debug\PodcastStarterKitPlaybackAudioAgent.dll
+C:\Code\github\Windows-Phone-Starter-Kit-for-Podcasts\PodcastStarterKitPlaybackAudioAgent\obj\Debug\PodcastStarterKitPlaybackAudioAgent.pdb

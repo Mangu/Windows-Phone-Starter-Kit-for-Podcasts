@@ -132,7 +132,7 @@ namespace PodcastStarterKit.Services
                 loadedEventArgs.IsLoaded = true;
                 loadedEventArgs.Message = "";
             }
-            catch (Exception ex)
+            catch
             {
                 loadedEventArgs.IsLoaded = false;
                 loadedEventArgs.Message = "unable to load data";
